@@ -1,0 +1,2 @@
+# practical-rust
+Rust projects
